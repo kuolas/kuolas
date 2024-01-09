@@ -3,6 +3,7 @@
 I'm a systems programmer, that likes:
 
 - :desktop_computer: &nbsp;OS:&nbsp;</br>
+![Debian](https://img.shields.io/badge/debian-logo?style=for-the-badge&logo=debian&logoColor=red&color=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
 - :floppy_disk: &nbsp;Languages:&nbsp;</br>
